@@ -1,0 +1,13 @@
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\bin\Debug\netcoreapp2.1\PokerComTDD.deps.json
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\bin\Debug\netcoreapp2.1\PokerComTDD.dll
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\bin\Debug\netcoreapp2.1\PokerComTDD.pdb
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\obj\Debug\netcoreapp2.1\PokerComTDD.csprojAssemblyReference.cache
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\obj\Debug\netcoreapp2.1\PokerComTDD.AssemblyInfoInputs.cache
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\obj\Debug\netcoreapp2.1\PokerComTDD.AssemblyInfo.cs
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\obj\Debug\netcoreapp2.1\PokerComTDD.dll
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\obj\Debug\netcoreapp2.1\PokerComTDD.pdb
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\bin\Debug\netcoreapp2.1\PokerComTDD.runtimeconfig.json
+C:\Users\marco.antonio\Desktop\Tutoriais\Curso-Tdd-Projeto-Poker\bin\Debug\netcoreapp2.1\PokerComTDD.runtimeconfig.dev.json
